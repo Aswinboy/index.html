@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(202, 177, 177);
+    padding-top: 10px;
+
+}
+h1{
+    color: white;
+    padding: 10px;
+   font-style: oblique;\
+   
+}
+h6{
+    font-variant: small-caps;
+    
+}
+h2{
+    text-rendering:geometricPrecision;
+    color: rgb(123, 70, 192);
+}
